@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://unsplash.com" alt="Beachside Restaurant" width="100%" style="border-radius: 15px;">
+  <img src="P1030840.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
 </p>
 
 
