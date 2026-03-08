@@ -1,8 +1,10 @@
 # 🌊 Welcome to QurhtDvf's Beachside Kitchen
 
+
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://unsplash.com" alt="Beachside Restaurant" width="100%" style="border-radius: 15px;">
 </p>
+
 
 ### 🍹 Today's Menu (Introduction)
 こんにちは！ここは私のオープンキッチン（リポジトリ）です。
