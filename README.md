@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="P1030840.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img src="P1030840.JPG" width="100%" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
 </p>
 
 
