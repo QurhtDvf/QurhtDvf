@@ -10,12 +10,16 @@
   <font size="2">/kʊərt dəˈvuːf/</font>
 </p>
 ### 🍱 Dagens Råvarer (Dagens Ingredients)
+
 Vores køkken håndterer et bredt udvalg af friske råvarer:
+
 *   **🐍 Python & Jupyter** - Frisk og letanrettet
 *   **🦀 Rust** - Robust og langtidsholdbar 
 *   **🌀 Julia** - Hurtig og kraftfuld 
 *   **🛠 C++** - Traditionel og solid
+  
 ### 🍹 Today's Menu (Introduction)
+
 こんにちは！ここは私のオープンキッチン（リポジトリ）です。
 
 
