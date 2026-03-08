@@ -7,7 +7,7 @@
 <p align="center">
   <font size="6"><b>ᚲᚢᚱᛏ ᛞᛖᚠᛟᚠ</b></font><br>
   <font size="4"><b>QurhtDvf</b></font><br>
-  <font size="2">/kʊərt dəˈvuːf/</font>
+  <font size="2">/kuːt dəˈvøːf/</font>
 </p>
 
 ### 🍱 Dagens Råvarer (Dagens Ingredients)
