@@ -11,10 +11,11 @@
 </p>
 
 ### 統計学と機械学習、LLM
-* [LLM（大規模言語モデル）](https://github.com/QurhtDvf/llm)← 特定モデル族（実装層）
+* [統計学](https://github.com/QurhtDvf/statistics)  ← 理論体系（原理層）
+    * 不確実性のもとでデータから構造を推定するための理論体系
 * 機械学習 ← 方法論（アルゴリズム層）
-* [統計学](https://github.com/QurhtDvf/statistics) ← 理論体系（原理層）
-  **統計学：不確実性のもとでデータから構造を推定するための理論体系
+* [LLM（大規模言語モデル）](https://github.com/QurhtDvf/llm) ← 特定モデル族（実装層）
+
 
 
 ### 🍱 Dagens Råvarer (Dagens Ingredients)
