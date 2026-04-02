@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="P1030840.JPG" width="80%" style="border-radius: 100px;"">
+  <img src="P1030840.JPG" width="30%" style="border-radius: 100px;"">
 </p>
 <p align="center">
   <font size="6"><b>ᚲᚢᚱᛏ ᛞᛖᚠᛟᚠ</b></font><br>
